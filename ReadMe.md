@@ -1,9 +1,10 @@
 ### ReadME
 
 ## Description 
-In this project a Machine Learning model was created to predict breast cancer diagnosis prediction.
+In this project a Machine Learning model was created for breast cancer diagnosis prediction.
+
 For model, onehotencoding was performed on data was done in-order to make it suitable for training and testing. 
-Also, it is a Logistic Regression model under the hood which was responsible for high accuracy..
+Also, it is a Logistic Regression model under the hood which was responsible for high accuracy.
 
 Operating System - Windows 10
 
